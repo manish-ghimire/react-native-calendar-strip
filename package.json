@@ -1,5 +1,5 @@
 {
-  "name": "react-native-calendar-strip",
+  "name": "react-native-calendar-strip-with-ticks",
   "description": "Easy to use and visually stunning calendar component for React Native",
   "author": "Bogdan Begovic <bogdanbegovic@gmail.com>",
   "contributors": [
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/BugiDev/react-native-calendar-strip/issues"
   },
-  "version": "2.2.6",
+  "version": "1.0.0",
   "main": "index.js",
   "directories": {
     "example": "example"
